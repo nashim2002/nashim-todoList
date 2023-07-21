@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nashim-todoList/static/css/main.63d73940.css",
+    "main.js": "/nashim-todoList/static/js/main.e4f38503.js",
+    "index.html": "/nashim-todoList/index.html",
+    "main.63d73940.css.map": "/nashim-todoList/static/css/main.63d73940.css.map",
+    "main.e4f38503.js.map": "/nashim-todoList/static/js/main.e4f38503.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63d73940.css",
+    "static/js/main.e4f38503.js"
+  ]
+}
